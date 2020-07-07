@@ -20,7 +20,7 @@ Concepts covered in this project include using APIs to fetch data from external 
 
 ## Christopher McColgan
 - Created attractions section
-- Fetched attractions information from exteral database
+- Fetched attractions information from external database
 - Generated attractions dropdown and preview using JavaScript functions, loops, and event listeners
 - Created README.md
 
